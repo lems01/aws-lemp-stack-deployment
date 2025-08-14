@@ -256,8 +256,13 @@ Save and close the file.
 ---
 
 ## 📸 Screenshots  
+NGINX
 ![Nginx Setup](assets/nginx.png)  
+
+MYSQL
 ![MySQL Setup](assets/mysql.png)  
+
+PHP
 ![PHP Info Page](assets/php_info.png)  
 
 ---
